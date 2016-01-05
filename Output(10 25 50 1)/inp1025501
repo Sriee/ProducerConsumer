@@ -1,0 +1,13 @@
+Script started on Tue 20 Oct 2015 07:47:15 PM CDT
+]2;engnx02.utdallas.edu:/home/004/a/ax/axg147730[?1034h{engnx02:~} cd Downloads/
+]2;engnx02.utdallas.edu:/home/004/a/ax/axg147730/Downloads{engnx02:~/Downloads} g++ ProducerConsumer.cpp -o ProducerConsumer.cpp[K[K[Kout -pthread -std=c++0x
+]2;engnx02.utdallas.edu:/home/004/a/ax/axg147730/Downloads{engnx02:~/Downloads} ./ProducerConsumer.out 10 25 50 1
+The number of Producers = 10
+The number of Consumers = 25
+Maximum buffer limit = 50
+Number of random numbers a Producer can create = 1
+Reached End of file successfully!!!
+]2;engnx02.utdallas.edu:/home/004/a/ax/axg147730/Downloads{engnx02:~/Downloads} exit
+exit
+
+Script done on Tue 20 Oct 2015 07:47:58 PM CDT
